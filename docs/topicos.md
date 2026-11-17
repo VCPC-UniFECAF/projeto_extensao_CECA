@@ -11,11 +11,13 @@
 
 ## Execução – máquinas dos alunos
 - Instalamos o Windows 11 nas máquinas dos alunos.
-- Situação: 2 máquinas já funcionando; 1 com problema no SSD (em tentativa com outro SSD); 1 morta, em análise de substituição; 1 com defeito.
-  (Conferir contagem exata/total de máquinas com o grupo.)
+- Total: 4 máquinas de alunos.
+- Situação: 2 funcionando; 1 com problema no SSD (testando outro SSD); 1 morta, em análise de substituição.
 
 ## Execução – servidor NAS (atualização)
 - Disponibilizaram outra máquina para o NAS (substitui o PC de fonte defeituosa).
 - Windows instalado.
 - Iniciadas as configurações online e de domínio.
 - Perfis de usuário em criação.
+- Domínio: grupo tem acesso ao Azure (Microsoft Entra ID); ainda analisando a abordagem (Entra ID x AD local).
+- NAS: em um primeiro momento, pastas compartilhadas do Windows.
